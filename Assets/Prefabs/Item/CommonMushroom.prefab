@@ -136,7 +136,7 @@ PrefabInstance:
     - target: {fileID: -7635826562936255635, guid: e06580c51a324fc48a15edc3c10545c2, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4a3e6d84ff016aa45ac832c973c26804, type: 2}
+      objectReference: {fileID: 2100000, guid: e7e16069672c1ab4a946542f16b34dd9, type: 2}
     - target: {fileID: 919132149155446097, guid: e06580c51a324fc48a15edc3c10545c2, type: 3}
       propertyPath: m_Name
       value: CommonMushroomModel
