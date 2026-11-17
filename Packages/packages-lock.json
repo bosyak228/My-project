@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.cqf.urpvolumetricfog": {
-      "version": "file:C:/Users/bosyak/Downloads/Unity-URP-Volumetric-Light-0.5.91/Unity-URP-Volumetric-Light-0.5.91",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.burst": {
       "version": "2.0.0",
       "depth": 2,
